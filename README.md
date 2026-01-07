@@ -408,9 +408,6 @@ cardio-guard/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -420,10 +417,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Gemini**: AI-powered therapy recommendations
 - **Recharts**: React charting library
 
-## 📞 Support
 
-For support, email support@cardioguard.com or create an issue in the repository.
-
----
 
 **Cardio Guard** - Empowering heart health through AI and modern technology 🫀✨
