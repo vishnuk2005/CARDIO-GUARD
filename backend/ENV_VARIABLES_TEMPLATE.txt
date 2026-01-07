@@ -1,0 +1,12 @@
+MONGODB_URI=your-mongodb-uri
+JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
+JWT_EXPIRES_IN=7d
+PORT=5000
+NODE_ENV=development
+FRONTEND_URL=your-website-frontend-url
+ML_SERVICE_URL=ml-server-url
+ML_SERVICE_TIMEOUT=30000
+GEMINI_API_KEY=your-gemini-api-key
+GEMINI_MODEL=your-gemini-model
+LOG_LEVEL=info
+DEBUG_MODE=true
